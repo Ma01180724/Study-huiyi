@@ -46,7 +46,7 @@ springIOC和AOP
 自我介绍
 Java集合包括哪些
 arraylist/linkedlist底层原理，arraylist如何线程安全
-hashmap底层原理，线程安全
+hashmap底层原理，线程安全，在哪有应用？
 concurrent怎么保证线程安全，怎么增加元素
 线程的生命周期，为什么进入阻塞状态？为什么进入等待状态？
 锁，valitile的使用场景
