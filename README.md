@@ -11,6 +11,13 @@ Java SE面试题总结
 ip协议位于网络哪一层？
 tcp三次握手的过程
 
+二面：
+问题都不会也记不住
+操作系统的shao
+网络的路由搭桥
+声音去噪算法
+java的虚拟化
+java的容器
 
 
 
@@ -45,7 +52,7 @@ springIOC和AOP
 陌陌  java（大数据） 视频一面   70分钟
 自我介绍
 Java集合包括哪些
-arraylist/linkedlist底层原理，arraylist如何线程安全
+arraylist/linkedlist底层原理，arraylist如何线程安全 copyOnWrite读多写少的时候，如果要写就复制一份出来去写
 hashmap底层原理，线程安全，在哪有应用？
 concurrent怎么保证线程安全，怎么增加元素
 线程的生命周期，为什么进入阻塞状态？为什么进入等待状态？
