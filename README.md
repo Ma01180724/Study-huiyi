@@ -131,6 +131,22 @@ redis RDB和AOF
 spring IOC,AOP，循环依赖
 算法：反转链表
 算法实现
-范文
+反问
+
+
+联想一面：9.7
+4v1
+自我介绍
+jdk和jre的区别
+int和integer的区别
+stringbuffer和stringbuilder的区别
+arrylist和linkedlist哪个更占内存
+创建线程池的方式
+线程和进程的区别
+lock锁怎么实现公平
+线程池的核心参数的选取
+java对象的创建过程
+类加载的原理
+链表的倒数第k个节点
 
 
